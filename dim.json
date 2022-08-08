@@ -1,0 +1,43 @@
+{
+  "fileVersion": "1.1",
+  "contents": [
+    {
+      "url": "https://search.ckan.jp/datasets/catalog.data.metro.tokyo.lg.jp__dataset:t000029d0000000011",
+      "name": "https://search.ckan.jp/datasets/catalog.data.metro.tokyo.lg.jp__dataset:t000029d0000000011",
+      "postProcesses": [],
+      "catalogUrl": "",
+      "catalogResourceId": "",
+      "headers": ""
+    },
+    {
+      "url": "http://linkdata.org/download/rdf1s7742i/link/201901_tyotyobetu_jinkotokei.txt",
+      "name": "test3",
+      "catalogUrl": "",
+      "catalogResourceId": "",
+      "postProcesses": [
+        "encoding-utf-8"
+      ],
+      "headers": {}
+    },
+    {
+      "url": "http://linkdata.org/download/rdf1s7742i/link/201901_tyotyobetu_jinkotokei.txt",
+      "name": "test34",
+      "catalogUrl": "",
+      "catalogResourceId": "",
+      "postProcesses": [
+        "encoding-utf-8"
+      ],
+      "headers": {}
+    },
+    {
+      "url": "https://www.opendata.metro.tokyo.lg.jp/akishima/132071_population_20220601.csv",
+      "name": "test_py",
+      "catalogUrl": null,
+      "catalogResourceId": null,
+      "postProcesses": [
+        "CMD python3 ./tests/test_custom_command.py"
+      ],
+      "headers": {}
+    }
+  ]
+}
