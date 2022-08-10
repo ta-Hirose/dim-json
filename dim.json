@@ -2,14 +2,6 @@
   "fileVersion": "1.1",
   "contents": [
     {
-      "url": "https://search.ckan.jp/datasets/catalog.data.metro.tokyo.lg.jp__dataset:t000029d0000000011",
-      "name": "https://search.ckan.jp/datasets/catalog.data.metro.tokyo.lg.jp__dataset:t000029d0000000011",
-      "postProcesses": [],
-      "catalogUrl": "",
-      "catalogResourceId": "",
-      "headers": {}
-    },
-    {
       "url": "http://linkdata.org/download/rdf1s7742i/link/201901_tyotyobetu_jinkotokei.txt",
       "name": "test3",
       "catalogUrl": "",
