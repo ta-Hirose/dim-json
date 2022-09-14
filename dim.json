@@ -6,9 +6,7 @@
       "name": "test_data1",
       "catalogUrl": "",
       "catalogResourceId": "",
-      "postProcesses": [
-        "encode utf-16LE"
-      ],
+      "postProcesses": [],
       "headers": {}
     },
     {
