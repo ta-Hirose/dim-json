@@ -3,27 +3,27 @@
   "contents": [
     {
       "url": "http://linkdata.org/download/rdf1s7742i/link/201901_tyotyobetu_jinkotokei.txt",
-      "name": "test3",
+      "name": "test_data1",
       "catalogUrl": "",
       "catalogResourceId": "",
       "postProcesses": [
-        "encoding-utf-8"
+        "encode utf-8"
       ],
       "headers": {}
     },
     {
       "url": "http://linkdata.org/download/rdf1s7742i/link/201901_tyotyobetu_jinkotokei.txt",
-      "name": "test34",
+      "name": "test_data2",
       "catalogUrl": "",
       "catalogResourceId": "",
       "postProcesses": [
-        "encoding-utf-8"
+        "encode utf-8"
       ],
       "headers": {}
     },
     {
       "url": "https://www.opendata.metro.tokyo.lg.jp/akishima/132071_population_20220601.csv",
-      "name": "test_py",
+      "name": "test_data3",
       "catalogUrl": null,
       "catalogResourceId": null,
       "postProcesses": [
