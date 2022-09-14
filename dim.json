@@ -7,7 +7,7 @@
       "catalogUrl": "",
       "catalogResourceId": "",
       "postProcesses": [
-        "encode utf-8"
+        "encode utf-16"
       ],
       "headers": {}
     },
@@ -17,7 +17,7 @@
       "catalogUrl": "",
       "catalogResourceId": "",
       "postProcesses": [
-        "encode utf-8"
+        "encode sjis"
       ],
       "headers": {}
     }
